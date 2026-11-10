@@ -7,7 +7,7 @@ I'm a CS student at **Rice University** (B.S. Computer Science, Minor in Mathema
 - **Edge-cloud anomaly detection**: [*ECLAD*](https://doi.org/10.1145/3774905.3793127), lightweight edge screening with cloud verification and LLM diagnostic agents. WWW 2026 Demo
 - **Agent safety**: detecting indirect prompt injections hidden in tool outputs (ShanghaiTech)
 - **Clinical AI**: a training-free, retrieval-augmented multi-agent framework for prognosis from chest X-rays and radiology reports (Rice)
-- **Software testing**: *CHAGRATION*, LLM-driven migration of Android GUI tests across similar apps (Tencent SSV)
+- **Software testing**: [*CHAGRATION*](https://github.com/kxmz-1/CHAGRATION), LLM-driven migration of Android GUI tests across similar apps (Tencent SSV)
 
 #### 🛠 Building
 - **Sushi Roll Y'all!**: a cross-platform multiplayer strategy game with a server-authoritative Node.js backend and a beam-search AI opponent
